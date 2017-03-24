@@ -23,9 +23,15 @@ margin-left: 600px;
 border: 10px solid #CD5C5C;
 border-radius: 5px;
 padding-left: 25px;
+margin-bottom: 25px;
 }
 #two{
   background-color: BlanchedAlmond;
+  border: 10px solid #CD5C5C;
+  width: 700px;
+  border-radius: 5px;
+  padding-left: 25px;
+  margin-left: 600px;
 }
 #third{
   background-color: LightSalmon;
