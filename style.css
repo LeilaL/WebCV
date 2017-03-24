@@ -9,6 +9,8 @@ img{
 }
 section.{
   background-color: BlanchedAlmond;
+  display: inline-block;
+  vertical-align: middle;
 }
 section.{
   background-color: LightSalmon;
