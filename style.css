@@ -1,5 +1,9 @@
 body {
   margin: 0 auto;
+  width: 90%;
+position: absolute;
+right: 5%;
+
 }
 header{
   text-align: center;
