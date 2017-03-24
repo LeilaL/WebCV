@@ -21,6 +21,7 @@ img{
 width: 700px;
 margin-left: 600px;
 border: 10px solid #CD5C5C;
+border-radius: 5px;
 padding-left: 25px;
 }
 #two{
@@ -28,8 +29,9 @@ padding-left: 25px;
 }
 #third{
   background-color: LightSalmon;
-  border-top: #B22222;
+border: 10px solid #CD5C5C;
   width: 250px;
+  border-radius: 5px;
 }
 h2 {
 text-align: center;
