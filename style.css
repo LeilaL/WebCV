@@ -5,6 +5,9 @@ header{
   text-align: center;
 background-color: IndianRed;
 height: 150px;
+padding-right: 150px;
+width: 900px;
+margin-left: 150px;
 }
 img{
   float:left;
@@ -36,7 +39,7 @@ margin-bottom: 25px;
 #third{
   background-color: LightSalmon;
 border: 10px solid #CD5C5C;
-  width: 250px;
+  width: 300px;
   border-radius: 5px;
 }
 h2 {
