@@ -1,16 +1,24 @@
+body {
+  margin: 0 auto;
+}
 header{
   text-align: center;
 background-color: IndianRed;
+height: 150px;
 }
 img{
   float:left;
-  height: auto;
-  width: auto;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-top: 20px;
 }
 #one{
   background-color: BlanchedAlmond;
   display: inline-block;
   vertical-align: middle;
+width: auto;
 }
 #two{
   background-color: BlanchedAlmond;
@@ -18,4 +26,8 @@ img{
 #third{
   background-color: LightSalmon;
   border-top: #B22222;
+  width: 250px;
+}
+h4 {
+
 }
