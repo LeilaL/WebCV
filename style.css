@@ -1,52 +1,49 @@
 body {
-  margin: 0 auto;
-  width: 90%;
-position: absolute;
-right: 5%;
 background-color: #FFF8DC;
 }
 header{
-  text-align: center;
+text-align: center;
 background-color: IndianRed;
 height: 150px;
 padding-right: 200px;
 width: 900px;
 margin-left: 80px;
+margin-bottom: 50px;
 }
 img{
-  float:left;
-  height: 100px;
-  width: 100px;
-  margin-bottom: 100px;
-  margin-left: 50px;
-  margin-top: 20px;
+float:left;
+height: 100px;
+width: 100px;
+margin-left: 50px;
+margin-top: 20px;
 }
 #one{
-  background-color: BlanchedAlmond;
-  display: inline-block;
-  vertical-align: middle;
+background-color: BlanchedAlmond;
+display: inline-block;
 width: 700px;
-margin-left: 600px;
 border: 10px solid #CD5C5C;
 border-radius: 5px;
 padding-left: 25px;
 margin-bottom: 25px;
-margin-left: 500px;
+vertical-align: top;
+margin-left: 100px;
 }
 #two{
-  background-color: BlanchedAlmond;
-  border: 10px solid #CD5C5C;
-  width: 700px;
-  border-radius: 5px;
-  padding-left: 25px;
-  margin-left: 600px;
-  margin-left: 500px;
+background-color: BlanchedAlmond;
+border: 10px solid #CD5C5C;
+width: 700px;
+border-radius: 5px;
+padding-left: 25px;
+display: inline-block;
+margin-left: 505px;
 }
 #third{
-  background-color: LightSalmon;
-  border: 10px solid #CD5C5C;
-  width: 300px;
-  border-radius: 5px;
+background-color: LightSalmon;
+border: 10px solid #CD5C5C;
+width: 300px;
+border-radius: 5px;
+display: inline-block;
+margin-left: 80px;
 }
 h2 {
 text-align: center;
